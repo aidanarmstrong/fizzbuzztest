@@ -17,7 +17,7 @@ node app.js fizzbuzz
 ```
 This takes a parameter of `--amount=` which is a required number.
 
-###Testing
+### Testing
 you can run the following command to test that the code works correctly.
 ```angular2html
 jest fizzbuzz.test.js    
